@@ -1,1 +1,1 @@
-SELECT * FROM Stock;
+SELECT * FROM Users;
